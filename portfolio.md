@@ -1,1 +1,1 @@
-Richard
+Richard Peters
