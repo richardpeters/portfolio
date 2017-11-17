@@ -1,3 +1,3 @@
-#Portfolio
+# Portfolio
 
-Richard Peters
+## Richard Peters
